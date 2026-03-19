@@ -2,7 +2,7 @@
 
 Find repeated words in text with frequency counts, word positions, and an optional common-word filter, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/text-tools/duplicate-word-finder
+**Live Demo:** https://file-converter-free.com/en/text-tools/duplicate-word-finder-online
 
 ## How It Works
 
